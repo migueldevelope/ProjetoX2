@@ -1,0 +1,19 @@
+body {
+	font-family: "calibri";
+}
+
+.label {
+	font-weight: bold;
+}
+
+.textbox {
+	
+}
+
+
+.button {
+	width:100px;
+	border: solid 1px;
+    margin: 5px;
+    cursor: pointer;
+}
